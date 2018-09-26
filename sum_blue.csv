@@ -1,0 +1,8 @@
+"     age" "          job" "    marital" "    education" "default" "   balance" "housing" " loan" "     contact" "     day" "    month" "   duration" "   campaign" "    pdays" "   previous" "   poutcome" "  y"
+"" "Min.   :20.00  " "blue-collar :9732  " "divorced: 750  " "primary  :3758  " "no :9531  " "Min.   :-8019  " "no :2684  " "no :8048  " "cellular :5156  " "Min.   : 1.00  " "may    :4378  " "Min.   :   2.0  " "Min.   : 1.000  " "Min.   : -1.00  " "Min.   : 0.0000  " "failure:1068  " "no :9024  "
+"" "1st Qu.:33.00  " "admin.      :   0  " "married :6968  " "secondary:5371  " "yes: 201  " "1st Qu.:   55  " "yes:7048  " "yes:1684  " "telephone: 611  " "1st Qu.: 9.00  " "jul    :1396  " "1st Qu.: 107.0  " "1st Qu.: 1.000  " "1st Qu.: -1.00  " "1st Qu.: 0.0000  " "other  : 401  " "yes: 708  "
+"" "Median :39.00  " "entrepreneur:   0  " "single  :2014  " "tertiary : 149  " NA "Median :  388  " NA NA "unknown  :3965  " "Median :15.00  " "jun    :1280  " "Median : 186.0  " "Median : 2.000  " "Median : -1.00  " "Median : 0.0000  " "success: 148  " NA
+"" "Mean   :40.04  " "housemaid   :   0  " NA "unknown  : 454  " NA "Mean   : 1079  " NA NA NA "Mean   :15.44  " "apr    : 753  " "Mean   : 262.9  " "Mean   : 2.817  " "Mean   : 44.03  " "Mean   : 0.5051  " "unknown:8115  " NA
+"" "3rd Qu.:47.00  " "management  :   0  " NA NA NA "3rd Qu.: 1203  " NA NA NA "3rd Qu.:20.00  " "aug    : 609  " "3rd Qu.: 323.0  " "3rd Qu.: 3.000  " "3rd Qu.: -1.00  " "3rd Qu.: 0.0000  " NA NA
+"" "Max.   :75.00  " "retired     :   0  " NA NA NA "Max.   :66653  " NA NA NA "Max.   :31.00  " "nov    : 602  " "Max.   :3422.0  " "Max.   :50.000  " "Max.   :838.00  " "Max.   :58.0000  " NA NA
+"" NA "(Other)     :   0  " NA NA NA NA NA NA NA NA "(Other): 714  " NA NA NA NA NA NA
